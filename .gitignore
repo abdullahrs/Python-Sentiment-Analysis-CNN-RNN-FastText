@@ -1,0 +1,7 @@
+data/
+data/generated
+__pycache__/
+images/
+.venv/
+.gitignore
+final.pdf
